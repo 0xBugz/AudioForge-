@@ -1,5 +1,8 @@
 # Audio Format Converter  
 ### mp3 → flac, wav, ogg, aac, etc…
+---
+# Code as a Software(.exe,.tar) Will uplode in As Software as soon as possible
+---
 
 ![Python Version](https://img.shields.io/badge/python-3.6%2B-blue?logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)
