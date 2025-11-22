@@ -65,3 +65,5 @@ sudo apt install ffmpeg
 ### Audio Format Conversion:
 
 - Pydub
+
+# ⚠️ If any error occurs, don't forget to submit an issue with the error message!
