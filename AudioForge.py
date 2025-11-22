@@ -1,8 +1,6 @@
 import os
 import threading
-from tkinter import (
-    Tk, StringVar, filedialog, messagebox
-)
+from tkinter import (Tk, StringVar, filedialog, messagebox)
 from tkinter import ttk
 from pydub import AudioSegment
 from PIL import Image, ImageTk 
